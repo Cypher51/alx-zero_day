@@ -1,2 +1,2 @@
-'my git new'
+'my git update'
 
